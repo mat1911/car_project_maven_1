@@ -1,0 +1,46 @@
+[
+  {
+    "model": "BMW",
+    "price": 35000,
+    "color": "BLACK",
+    "mileage": 65430,
+    "components": [
+      "IMMOBILIZER",
+      "ABS",
+      "CLIMATIZATION"
+    ]
+  },
+  {
+    "model": "OPEL",
+    "price": 72000,
+    "color": "RED",
+    "mileage": 43000,
+    "components": [
+      "HEATED SEATS",
+      "ABS",
+      "CLIMATIZATION"
+    ]
+  },
+  {
+    "model": "OPEL",
+    "price": 92000,
+    "color": "YELLOW",
+    "mileage": 52000,
+    "components": [
+      "HEATED SEATS",
+      "CLIMATIZATION",
+      "ABS"
+    ]
+  },
+  {
+    "model": "AUDI",
+    "price": 92000,
+    "color": "BLACK",
+    "mileage": 2000,
+    "components": [
+      "RADIO",
+      "ABS",
+      "CLIMATIZATION"
+    ]
+  }
+]
